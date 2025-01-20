@@ -46,7 +46,7 @@ const Footer = () => {
                     className="text-white-400 mt-3 font-montserrat
                   text-base leading-normal hover:text-slate-gray cursor-pointer"
                   >
-                    <a href="">{index}</a>
+                    <a href={link.link}>{link.name}</a>
                   </li>
                 ))}
               </ul>
