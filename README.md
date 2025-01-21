@@ -1,8 +1,17 @@
-# React + Vite
+Nike Web Application
+This project is a demonstration of my frontend development skills using React and Vite. It features a responsive design, dynamic components, and efficient styling with Tailwind CSS.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Tech Stack
+React 19: For building the user interface
+Vite: For fast and optimized development
+Tailwind CSS: For utility-first CSS styling
+ESLint: For maintaining code quality
+Features
+Dynamic Components: Reusable and modular components for a seamless user experience
+Responsive Design: Ensures the application looks great on all devices
+Efficient Styling: Utilizes Tailwind CSS for quick and consistent styling
+Organized Code Structure: Easy to maintain and scale
+Inspiration
+This project was inspired by the tutorials from JavaScript Mastery. Their YouTube content provided valuable insights and guidance throughout the development process.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Feel free to explore the code and provide feedback!
