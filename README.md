@@ -1,4 +1,5 @@
 Nike Web Application
+Tutorial project from javascript mastery youtube channel, hand typed every line watching video from start to deployment
 This project is a demonstration of my frontend development skills using React and Vite. It features a responsive design, dynamic components, and efficient styling with Tailwind CSS.
 
 Tech Stack
